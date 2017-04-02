@@ -1,0 +1,14 @@
+{
+    "name": "lss1459637428/mythinkphp",
+    "description": "a test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "lss",
+            "email": "1459637428@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
