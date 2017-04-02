@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0491471-b123-4051-99ca-2e4c400f57c7" name="mythinkphp" url="http://lsslrz.cn">
+        <fileTransfer host="lsslrz.cn" port="21" rootFolder="/mythinkphp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
